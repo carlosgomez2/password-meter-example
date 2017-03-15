@@ -1,0 +1,9 @@
+.vertical-align {
+  margin-top: 25vh
+}
+
+.progress-bar{
+  height: 125% !important;
+  font-size: 11px !important;
+  line-height: 16px !important;
+}
